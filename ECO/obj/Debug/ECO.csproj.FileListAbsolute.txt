@@ -1,0 +1,1228 @@
+C:\Users\Joshua\Desktop\ECO\ECO\bin\Debug\ECO.exe.config
+C:\Users\Joshua\Desktop\ECO\ECO\bin\Debug\ECO.exe
+C:\Users\Joshua\Desktop\ECO\ECO\bin\Debug\ECO.pdb
+C:\Users\Joshua\Desktop\ECO\ECO\bin\Debug\MetroFramework.dll
+C:\Users\Joshua\Desktop\ECO\ECO\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.frmAttendanceDetails.resources
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.frmConfirm.resources
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.frmLoading.resources
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.frmScanDetails.resources
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.frmSplash.resources
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.frmAddEmployee.resources
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.frmBiometrics.resources
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.frmCheckBio.resources
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.frmDash_HR.resources
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.frmDash_IT.resources
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.frmLogin.resources
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.frmManageAcc_HR.resources
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.frmManageAcc_IT.resources
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.frmPayroll.resources
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.frmSearchEmp.resources
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.frmUserLogs.resources
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.frmViewEmp.resources
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.Properties.Resources.resources
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.exe
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.pdb
+C:\Users\Joshua\Desktop\ECO\ECO\obj\Debug\ECO.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\ECO.exe.config
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\ECO.exe
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\ECO.pdb
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\MetroFramework.dll
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmConfirm.resources
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmLoading.resources
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmCheckRequest.resources
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmSplash.resources
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmAddEmployee.resources
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmBiometrics.resources
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmCheckBio.resources
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmDash_HR.resources
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmDash_IT.resources
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmLogin.resources
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmManageAcc_HR.resources
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmManageAcc_IT.resources
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmPayroll.resources
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmSearchEmp.resources
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmUserLogs.resources
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmViewEmp.resources
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.Properties.Resources.resources
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.exe
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.pdb
+C:\Users\Joshua\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\ECO.exe.config
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\ECO.exe
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\ECO.pdb
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\DPFPDevNET.dll
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\DPFPEngNET.dll
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\DPFPGuiNET.dll
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\DPFPShrNET.dll
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\DPFPVerNET.dll
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\MetroFramework.dll
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\DPFPCtlXTypeLibNET.dll
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\DPFPShrXTypeLibNET.dll
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmConfirm.resources
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmLoading.resources
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmCheckRequest.resources
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmSplash.resources
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmAddEmployee.resources
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmBiometrics.resources
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmCheckBio.resources
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmDash_HR.resources
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmDash_IT.resources
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmLogin.resources
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmManageAcc_HR.resources
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmManageAcc_IT.resources
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmPayroll.resources
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmSearchEmp.resources
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmUserLogs.resources
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmViewEmp.resources
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.exe
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.pdb
+E:\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\ECO.exe.config
+E:\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\ECO.exe
+E:\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\ECO.pdb
+E:\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\MetroFramework.dll
+E:\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\MetroFramework.Fonts.dll
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.csprojResolveAssemblyReference.cache
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmConfirm.resources
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmLoading.resources
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmCheckRequest.resources
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmSplash.resources
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmAddEmployee.resources
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmBiometrics.resources
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmCheckBio.resources
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmDash_HR.resources
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmDash_IT.resources
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmLogin.resources
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmManageAcc_HR.resources
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmManageAcc_IT.resources
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmPayroll.resources
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmSearchEmp.resources
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmUserLogs.resources
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.frmViewEmp.resources
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.Properties.Resources.resources
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.csproj.GenerateResource.Cache
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.csproj.CoreCompileInputs.cache
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.exe
+E:\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.pdb
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\ECO.exe.manifest
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\bin\Debug\ECO.application
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.exe.manifest
+C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\ECO\ECO\obj\Debug\ECO.application
+E:\PROGS\ECO\ECO\bin\Debug\ECO.exe.config
+E:\PROGS\ECO\ECO\obj\Debug\ECO.exe
+E:\PROGS\ECO\ECO\obj\Debug\ECO.pdb
+E:\PROGS\ECO\ECO\bin\Debug\ECO.exe.manifest
+E:\PROGS\ECO\ECO\bin\Debug\ECO.application
+E:\PROGS\ECO\ECO\bin\Debug\ECO.exe
+E:\PROGS\ECO\ECO\bin\Debug\ECO.pdb
+E:\PROGS\ECO\ECO\bin\Debug\MetroFramework.dll
+E:\PROGS\ECO\ECO\bin\Debug\MetroFramework.Fonts.dll
+E:\PROGS\ECO\ECO\obj\Debug\ECO.frmConfirm.resources
+E:\PROGS\ECO\ECO\obj\Debug\ECO.frmLoading.resources
+E:\PROGS\ECO\ECO\obj\Debug\ECO.frmCheckRequest.resources
+E:\PROGS\ECO\ECO\obj\Debug\ECO.frmSplash.resources
+E:\PROGS\ECO\ECO\obj\Debug\ECO.frmAddEmployee.resources
+E:\PROGS\ECO\ECO\obj\Debug\ECO.frmBiometrics.resources
+E:\PROGS\ECO\ECO\obj\Debug\ECO.frmCheckBio.resources
+E:\PROGS\ECO\ECO\obj\Debug\ECO.frmDash_HR.resources
+E:\PROGS\ECO\ECO\obj\Debug\ECO.frmDash_IT.resources
+E:\PROGS\ECO\ECO\obj\Debug\ECO.frmLogin.resources
+E:\PROGS\ECO\ECO\obj\Debug\ECO.frmManageAcc_HR.resources
+E:\PROGS\ECO\ECO\obj\Debug\ECO.frmManageAcc_IT.resources
+E:\PROGS\ECO\ECO\obj\Debug\ECO.frmPayroll.resources
+E:\PROGS\ECO\ECO\obj\Debug\ECO.frmSearchEmp.resources
+E:\PROGS\ECO\ECO\obj\Debug\ECO.frmUserLogs.resources
+E:\PROGS\ECO\ECO\obj\Debug\ECO.frmViewEmp.resources
+E:\PROGS\ECO\ECO\obj\Debug\ECO.Properties.Resources.resources
+E:\PROGS\ECO\ECO\obj\Debug\ECO.csproj.GenerateResource.Cache
+E:\PROGS\ECO\ECO\obj\Debug\ECO.exe.manifest
+E:\PROGS\ECO\ECO\obj\Debug\ECO.application
+D:\Progs\ECO\ECO\bin\Debug\ECO.exe.config
+D:\Progs\ECO\ECO\obj\Debug\ECO.exe
+D:\Progs\ECO\ECO\obj\Debug\ECO.pdb
+D:\Progs\ECO\ECO\obj\Debug\ECO.csprojResolveAssemblyReference.cache
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmConfirm.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmEmployeeManagement.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmLoading.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmCheckRequest.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmNewEmployee.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmSplash.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmAddEmployee.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmBiometrics.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmCheckBio.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmDash_HR.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmDash_IT.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmLogin.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmManageAcc_HR.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmManageAcc_IT.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmPayroll.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmSearchEmp.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmUserLogs.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmViewEmp.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmMAIN.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.ParentSample.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.Properties.Resources.resources
+D:\Progs\ECO\ECO\obj\Debug\ECO.csproj.GenerateResource.Cache
+D:\Progs\ECO\ECO\bin\Debug\ECO.exe.manifest
+D:\Progs\ECO\ECO\bin\Debug\ECO.application
+D:\Progs\ECO\ECO\bin\Debug\ECO.exe
+D:\Progs\ECO\ECO\bin\Debug\ECO.pdb
+D:\Progs\ECO\ECO\bin\Debug\MetroFramework.dll
+D:\Progs\ECO\ECO\bin\Debug\MetroFramework.Fonts.dll
+D:\Progs\ECO\ECO\obj\Debug\ECO.exe.manifest
+D:\Progs\ECO\ECO\obj\Debug\ECO.application
+D:\Progs\ECO\ECO\obj\Debug\ECO.frmUserAccounts.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmEmployeeManagement.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmNewEmployee.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmUserAccounts.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmMAIN.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmNewPayroll.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmSelectPayroll.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmAdminSettings.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmEmployeePositions.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmNewEditPosition.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.csprojResolveAssemblyReference.cache
+D:\Jun\Progs\ECO\ECO\bin\Debug\ECO.exe.config
+D:\Jun\Progs\ECO\ECO\bin\Debug\ECO.exe.manifest
+D:\Jun\Progs\ECO\ECO\bin\Debug\ECO.application
+D:\Jun\Progs\ECO\ECO\bin\Debug\ECO.exe
+D:\Jun\Progs\ECO\ECO\bin\Debug\ECO.pdb
+D:\Jun\Progs\ECO\ECO\bin\Debug\MetroFramework.dll
+D:\Jun\Progs\ECO\ECO\bin\Debug\MetroFramework.Fonts.dll
+D:\Jun\Progs\ECO\ECO\bin\Debug\MySql.Data.dll
+D:\Jun\Progs\ECO\ECO\bin\Debug\MySql.Data.xml
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmAddEdHoliday.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmAdminSettings.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmAttendance.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmBookOB.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmChangeUserDetails.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmCheckAttendance.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmConfirm.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmConfirmPasswordReset.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmCreateUser.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmEmployeeDetails.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmEmployeeLog.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmEmployeeManagement.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmEmployeePositions.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmEnterYourPassword.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmFirstTimeLog.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmFormula.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmHolidaySettings.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmLeaveDaysSettings.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmLeaveRequest.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmLoading.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmCheckRequest.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmNewEditPosition.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmNewEmployee.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmNewLeaveRequest.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmNewPayroll.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmOfficialBusiness.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmRequestPasswordReset.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmRequests.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmReviewRequest.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmSelectPayroll.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmSplash.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmAddEmployee.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmBiometrics.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmCheckBio.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmDash_HR.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmDash_IT.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmLogin.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmManageAcc_HR.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmManageAcc_IT.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmPayroll.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmSearchEmp.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmUserAccounts.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmUserLogHistory.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmUserLogs.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmUserProfile.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmViewEmp.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.frmMAIN.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.Properties.Resources.resources
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.csproj.GenerateResource.Cache
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.exe.manifest
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.application
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.exe
+D:\Jun\Progs\ECO\ECO\obj\Debug\ECO.pdb
+E:\Progs\ECO\ECO\bin\Debug\MySql.Data.xml
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmAddEdHoliday.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmAttendance.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmBookOB.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmChangeUserDetails.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmCheckAttendance.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmConfirmPasswordReset.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmCreateUser.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmEmployeeDetails.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmEmployeeLog.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmEnterYourPassword.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmFirstTimeLog.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmFormula.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmHolidaySettings.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmLeaveDaysSettings.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmLeaveRequest.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmNewLeaveRequest.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmOfficialBusiness.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmRequestPasswordReset.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmRequests.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmReviewRequest.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmUserLogHistory.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmUserProfile.resources
+E:\Progs\ECO\ECO\obj\Debug\ECO.frmManualInput.resources
+D:\Jun\Prog\Progs\ECO\ECO\bin\Debug\ECO.exe.config
+D:\Jun\Prog\Progs\ECO\ECO\bin\Debug\ECO.exe.manifest
+D:\Jun\Prog\Progs\ECO\ECO\bin\Debug\ECO.application
+D:\Jun\Prog\Progs\ECO\ECO\bin\Debug\ECO.exe
+D:\Jun\Prog\Progs\ECO\ECO\bin\Debug\ECO.pdb
+D:\Jun\Prog\Progs\ECO\ECO\bin\Debug\MetroFramework.dll
+D:\Jun\Prog\Progs\ECO\ECO\bin\Debug\MetroFramework.Fonts.dll
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmAddEdHoliday.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmAdminSettings.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmAttendance.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmBookOB.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmChangeUserDetails.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmCheckAttendance.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmConfirm.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmConfirmPasswordReset.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmCreateUser.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmEmployeeDetails.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmEmployeeLog.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmEmployeeManagement.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmEmployeePositions.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmEnterYourPassword.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmFirstTimeLog.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmFormula.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmHolidaySettings.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmLeaveDaysSettings.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmLeaveRequest.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmLoading.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmCheckRequest.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmManualInput.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmNewEditPosition.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmNewEmployee.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmNewLeaveRequest.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmNewPayroll.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmOfficialBusiness.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmRequestPasswordReset.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmRequests.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmReviewRequest.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmSelectPayroll.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmSplash.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmAddEmployee.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmBiometrics.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmCheckBio.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmDash_HR.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmDash_IT.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmLogin.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmManageAcc_HR.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmManageAcc_IT.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmPayroll.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmSearchEmp.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmUserAccounts.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmUserLogHistory.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmUserLogs.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmUserProfile.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmViewEmp.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmMAIN.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.Properties.Resources.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.csproj.GenerateResource.Cache
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.exe.manifest
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.application
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.exe
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.pdb
+D:\Jun\Prog\Progs\ECO\ECO\bin\Debug\Database1.mdf
+D:\Jun\Prog\Progs\ECO\ECO\bin\Debug\Database1_log.ldf
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmTimeSheetReport.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.csprojResolveAssemblyReference.cache
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\ECO.frmReportPayroll.resources
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\RdlCompile.cache
+D:\Jun\Prog\Progs\ECO\ECO\obj\Debug\RdlCompile.compiled
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.csprojResolveAssemblyReference.cache
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmAddEdHoliday.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmAdminSettings.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmAttendance.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmBookOB.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmChangeUserDetails.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmCheckAttendance.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmConfirm.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmConfirmPasswordReset.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmCreateUser.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmEmployeeDetails.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmEmployeeLog.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmEmployeeManagement.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmEmployeePositions.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmEnterYourPassword.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmFirstTimeLog.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmFormula.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmHolidaySettings.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmLeaveDaysSettings.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmLeaveRequest.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmLoading.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmCheckRequest.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmManualInput.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmNewEditPosition.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmNewEmployee.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmNewLeaveRequest.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmNewPayroll.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmOfficialBusiness.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmReportPayroll.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmRequestPasswordReset.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmRequests.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmReviewRequest.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmSelectPayroll.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmSplash.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmAddEmployee.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmBiometrics.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmCheckBio.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmDash_HR.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmDash_IT.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmLogin.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmManageAcc_HR.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmManageAcc_IT.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmPayroll.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmSearchEmp.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmTimeSheetReport.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmUserAccounts.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmUserLogHistory.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmUserLogs.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmUserProfile.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmViewEmp.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.frmMAIN.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.Properties.Resources.resources
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.csproj.GenerateResource.Cache
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.exe
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.pdb
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\Database1.mdf
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\Database1_log.ldf
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\ECO.exe.config
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\ECO.exe.manifest
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\ECO.application
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\ECO.exe
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\ECO.pdb
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\MetroFramework.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\EnvDTE.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\stdole.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\Microsoft.MSXML.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.exe.manifest
+C:\Users\thorskii\Desktop\ECO\ECO\obj\Debug\ECO.application
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\Database1.mdf
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\Database1_log.ldf
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\ECO.exe.config
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\ECO.exe.manifest
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\ECO.application
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\ECO.exe
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\ECO.pdb
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\DPFPDevNET.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\DPFPEngNET.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\DPFPGuiNET.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\DPFPShrNET.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\DPFPVerNET.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\MetroFramework.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\DPFPCtlXTypeLibNET.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\DPFPShrXTypeLibNET.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\EnvDTE.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\stdole.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmAddBiometric.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmAddEdBio.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmAddEdHoliday.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmAdminSettings.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmAttendance.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmBiometric.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmBookOB.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmChangeUserDetails.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmCheckAttendance.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmConfirmPasswordReset.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmCreateUser.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmEmployeeDetails.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmEmployeeLog.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmEmployeeManagement.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmEmployeePositions.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmEnterYourPassword.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmFirstTimeLog.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmFormula.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmHolidaySettings.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmLeaveDaysSettings.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmLeaveRequest.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmLoading.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmManualInput.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmNewEditPosition.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmNewEmployee.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmNewLeaveRequest.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmNewPayroll.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmOfficialBusiness.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmReportPayroll.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmRequestPasswordReset.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmRequests.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmResignation.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmResignedList.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmReviewRequest.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmSelectPayroll.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmSplash.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmLogin.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmTimeSheetReport.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmUpdateBio.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmUserAccounts.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmUserLogHistory.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmUserProfile.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmViewBiometric.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.frmMAIN.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.exe.manifest
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.application
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.exe
+C:\Users\Lenovo\Desktop\ECO\ECO\obj\Debug\ECO.pdb
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\Database1.mdf
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\Database1_log.ldf
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\ECO.exe.config
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\ECO.exe.manifest
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\ECO.application
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\ECO.exe
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\ECO.pdb
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\DPFPDevNET.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\DPFPEngNET.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\DPFPGuiNET.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\DPFPShrNET.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\DPFPVerNET.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\MetroFramework.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\DPFPCtlXTypeLibNET.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\DPFPShrXTypeLibNET.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\EnvDTE.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\stdole.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAddBiometric.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAddEdBio.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAddEdHoliday.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAdminSettings.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAttendance.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmBiometric.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmBookOB.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmChangeUserDetails.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmCheckAttendance.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmConfirmPasswordReset.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmCreateUser.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEmployeeDetails.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEmployeeLog.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEmployeeManagement.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEmployeePositions.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEnterYourPassword.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmFirstTimeLog.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmFormula.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmHolidaySettings.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmLeaveDaysSettings.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmLeaveRequest.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmLoading.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmManualInput.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmNewEditPosition.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmNewEmployee.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmNewLeaveRequest.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmNewPayroll.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmOfficialBusiness.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmPayrollBreakdown.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmPrintPayroll.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmReportPayroll.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmRequestPasswordReset.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmRequests.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmResignation.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmResignedList.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmReviewRequest.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmSelectPayroll.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmSplash.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmLogin.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmThirteenMonthPrint.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmThirteenthMonth.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmTimeSheetReport.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmUpdateBio.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmUserAccounts.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmUserLogHistory.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmUserProfile.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmViewBiometric.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmMAIN.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.exe.manifest
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.application
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.exe
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.pdb
+C:\Users\Lenovo\Desktop\ECOSOL\ECO\ECO\obj\Debug\ECO.frmPayrollLoader.resources
+E:\ECOSOL\ECO\ECO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\Database1.mdf
+E:\ECOSOL\ECO\ECO\bin\Debug\Database1_log.ldf
+E:\ECOSOL\ECO\ECO\bin\Debug\ECO.exe.config
+E:\ECOSOL\ECO\ECO\bin\Debug\ECO.exe.manifest
+E:\ECOSOL\ECO\ECO\bin\Debug\ECO.application
+E:\ECOSOL\ECO\ECO\bin\Debug\ECO.exe
+E:\ECOSOL\ECO\ECO\bin\Debug\ECO.pdb
+E:\ECOSOL\ECO\ECO\bin\Debug\MetroFramework.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\MetroFramework.Fonts.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\EnvDTE.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\stdole.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\Microsoft.MSXML.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ECOSOL\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAddBiometric.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAddEdBio.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAddEdHoliday.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAdminSettings.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAttendance.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmBiometric.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmBookOB.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmChangeUserDetails.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmCheckAttendance.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmConfirmPasswordReset.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmCreateUser.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEmployeeDetails.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEmployeeLog.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEmployeeManagement.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEmployeePositions.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEnterYourPassword.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmFirstTimeLog.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmFormula.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmHolidaySettings.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmLeaveDaysSettings.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmLeaveRequest.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmLoading.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmManualInput.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmNewEditPosition.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmNewEmployee.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmNewLeaveRequest.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmNewPayroll.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmOfficialBusiness.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmPayrollBreakdown.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmPayrollLoader.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmPrintPayroll.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmReportPayroll.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmRequestPasswordReset.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmRequests.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmResignation.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmResignedList.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmReviewRequest.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmSelectPayroll.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmSplash.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmLogin.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmThirteenMonthPrint.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmThirteenthMonth.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmTimeSheetReport.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmUpdateBio.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmUserAccounts.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmUserLogHistory.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmUserProfile.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmViewBiometric.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.frmMAIN.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.Properties.Resources.resources
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.csproj.GenerateResource.Cache
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.exe.manifest
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.application
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.exe
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.pdb
+E:\ECOSOL\ECO\ECO\obj\Debug\ECO.csprojResolveAssemblyReference.cache
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\Database1.mdf
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\Database1_log.ldf
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\ECO.exe.config
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\ECO.exe.manifest
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\ECO.application
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\ECO.exe
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\ECO.pdb
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\MetroFramework.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\MetroFramework.Fonts.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\EnvDTE.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\stdole.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.MSXML.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.csprojResolveAssemblyReference.cache
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAddBiometric.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAddEdBio.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAddEdHoliday.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAdminSettings.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAttendance.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmBiometric.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmBookOB.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmChangeUserDetails.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmCheckAttendance.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmConfirmPasswordReset.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmCreateUser.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEmployeeDetails.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEmployeeLog.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEmployeeManagement.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEmployeePositions.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEnterYourPassword.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmFirstTimeLog.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmFormula.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmHolidaySettings.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmLeaveDaysSettings.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmLeaveRequest.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmLoading.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmManualInput.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmNewEditPosition.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmNewEmployee.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmNewLeaveRequest.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmNewPayroll.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmOfficialBusiness.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmPayrollBreakdown.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmPayrollLoader.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmPrintPayroll.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmReportPayroll.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmRequestPasswordReset.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmRequests.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmResignation.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmResignedList.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmReviewRequest.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmSelectPayroll.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmSplash.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmLogin.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmThirteenMonthPrint.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmThirteenthMonth.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmTimeSheetReport.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmUpdateBio.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmUserAccounts.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmUserLogHistory.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmUserProfile.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmViewBiometric.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmMAIN.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.Properties.Resources.resources
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.csproj.GenerateResource.Cache
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.exe.manifest
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.application
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.exe
+D:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.pdb
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.csprojResolveAssemblyReference.cache
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAddBiometric.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAddEdBio.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAddEdHoliday.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAdminSettings.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmAttendance.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmBiometric.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmBookOB.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmChangeUserDetails.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmCheckAttendance.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmConfirmPasswordReset.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmCreateUser.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEmployeeDetails.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEmployeeLog.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEmployeeManagement.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEmployeePositions.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmEnterYourPassword.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmFirstTimeLog.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmFormula.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmHolidaySettings.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmLeaveDaysSettings.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmLeaveRequest.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmLoading.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmManualInput.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmNewEditPosition.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmNewEmployee.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmNewLeaveRequest.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmNewPayroll.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmOfficialBusiness.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmPayrollBreakdown.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmPayrollLoader.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmPrintPayroll.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmReportPayroll.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmRequestPasswordReset.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmRequests.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmResignation.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmResignedList.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmReviewRequest.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmSelectPayroll.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmSplash.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmLogin.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmThirteenMonthPrint.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmThirteenthMonth.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmTimeSheetReport.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmUpdateBio.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmUserAccounts.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmUserLogHistory.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmUserProfile.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmViewBiometric.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.frmMAIN.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.Properties.Resources.resources
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.csproj.GenerateResource.Cache
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\RdlCompile.cache
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\RdlCompile.compiled
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.exe
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.pdb
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\Database1.mdf
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\Database1_log.ldf
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\ECO.exe.config
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\ECO.exe.manifest
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\ECO.application
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\ECO.exe
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\ECO.pdb
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\MetroFramework.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\MetroFramework.Fonts.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\EnvDTE.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\stdole.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\Microsoft.MSXML.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.exe.manifest
+E:\Jun\ECOSOL\ECO\ECO\obj\Debug\ECO.application
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\Database1.mdf
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\Database1_log.ldf
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\ECO.exe.config
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\ECO.exe.manifest
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\ECO.application
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\ECO.exe
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\ECO.pdb
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\MetroFramework.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\MetroFramework.Fonts.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\EnvDTE.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\stdole.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\Microsoft.MSXML.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmAddBiometric.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmAddEdBio.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmAddEdHoliday.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmAdminSettings.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmAttendance.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmBiometric.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmBookOB.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmChangeUserDetails.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmCheckAttendance.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmConfirmPasswordReset.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmCreateUser.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmEmployeeDetails.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmEmployeeLog.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmEmployeeManagement.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmEmployeePositions.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmEnterYourPassword.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmFirstTimeLog.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmFormula.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmHolidaySettings.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmLeaveDaysSettings.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmLeaveRequest.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmLoading.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmManualInput.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmNewEditPosition.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmNewEmployee.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmNewLeaveRequest.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmNewPayroll.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmOfficialBusiness.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmPayrollBreakdown.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmPayrollLoader.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmPrintPayroll.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmReportPayroll.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmRequestPasswordReset.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmRequests.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmResignation.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmResignedList.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmReviewRequest.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmSelectPayroll.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmSplash.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmLogin.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmThirteenMonthPrint.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmThirteenthMonth.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmTimeSheetReport.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmUpdateBio.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmUserAccounts.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmUserLogHistory.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmUserProfile.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmViewBiometric.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.frmMAIN.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.Properties.Resources.resources
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.csproj.GenerateResource.Cache
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\RdlCompile.cache
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\RdlCompile.compiled
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.exe.manifest
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.application
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.exe
+D:\PROGRAMMING\ECO PROJECT\ECO\ECO\obj\Debug\ECO.pdb

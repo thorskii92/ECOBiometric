@@ -1,0 +1,721 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{24855DCB-3008-4518-9719-443291D750DA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ECO</RootNamespace>
+    <AssemblyName>ECO</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Lenovo\Desktop\ECOSOLUTIONS PROJ\Publish\ECOMAIN\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>0044EADFC3F213019A824EF53A3CB1B643547B65</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ECO_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>ECO.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ecologo_IOw_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DPFPDevNET, Version=1.6.1.0, Culture=neutral, PublicKeyToken=696774c42ee28c57, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\DigitalPersona\One Touch SDK\.NET\Bin\DPFPDevNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPEngNET, Version=1.6.1.0, Culture=neutral, PublicKeyToken=7fe76e7adf19964b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\DigitalPersona\One Touch SDK\.NET\Bin\DPFPEngNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPGuiNET, Version=1.6.1.0, Culture=neutral, PublicKeyToken=d4f4a0bd9c559145, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\DigitalPersona\One Touch SDK\.NET\Bin\DPFPGuiNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPShrNET, Version=1.6.1.0, Culture=neutral, PublicKeyToken=d902fe275a8d6cf2, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\DigitalPersona\One Touch SDK\.NET\Bin\DPFPShrNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPVerNET, Version=1.6.1.0, Culture=neutral, PublicKeyToken=4de0a9c4dcc83984, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\DigitalPersona\One Touch SDK\.NET\Bin\DPFPVerNET.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.RunTime.1.2.0.3\lib\net40-Client\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Design.1.2.0.3\lib\net40\MetroFramework.Design.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Fonts.1.2.0.3\lib\net40\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.10.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Printing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cclass.cs" />
+    <Compile Include="dset.cs">
+      <DependentUpon>dset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddBiometric.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddBiometric.designer.cs">
+      <DependentUpon>frmAddBiometric.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEdBio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEdBio.Designer.cs">
+      <DependentUpon>frmAddEdBio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEdHoliday.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEdHoliday.Designer.cs">
+      <DependentUpon>frmAddEdHoliday.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminSettings.Designer.cs">
+      <DependentUpon>frmAdminSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAttendance.Designer.cs">
+      <DependentUpon>frmAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBiometric.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBiometric.designer.cs">
+      <DependentUpon>frmBiometric.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBookOB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBookOB.Designer.cs">
+      <DependentUpon>frmBookOB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChangeUserDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChangeUserDetails.Designer.cs">
+      <DependentUpon>frmChangeUserDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckAttendance.Designer.cs">
+      <DependentUpon>frmCheckAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConfirmPasswordReset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfirmPasswordReset.Designer.cs">
+      <DependentUpon>frmConfirmPasswordReset.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCreateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCreateUser.Designer.cs">
+      <DependentUpon>frmCreateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeDetails.Designer.cs">
+      <DependentUpon>frmEmployeeDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeLog.Designer.cs">
+      <DependentUpon>frmEmployeeLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeManagement.Designer.cs">
+      <DependentUpon>frmEmployeeManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeePositions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeePositions.Designer.cs">
+      <DependentUpon>frmEmployeePositions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEnterYourPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEnterYourPassword.Designer.cs">
+      <DependentUpon>frmEnterYourPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFirstTimeLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFirstTimeLog.Designer.cs">
+      <DependentUpon>frmFirstTimeLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFormula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFormula.Designer.cs">
+      <DependentUpon>frmFormula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHolidaySettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHolidaySettings.Designer.cs">
+      <DependentUpon>frmHolidaySettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLeaveDaysSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLeaveDaysSettings.Designer.cs">
+      <DependentUpon>frmLeaveDaysSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLeaveRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLeaveRequest.Designer.cs">
+      <DependentUpon>frmLeaveRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoading.Designer.cs">
+      <DependentUpon>frmLoading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManualInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManualInput.Designer.cs">
+      <DependentUpon>frmManualInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewEditPosition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewEditPosition.Designer.cs">
+      <DependentUpon>frmNewEditPosition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewEmployee.Designer.cs">
+      <DependentUpon>frmNewEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewLeaveRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewLeaveRequest.Designer.cs">
+      <DependentUpon>frmNewLeaveRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewPayroll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewPayroll.Designer.cs">
+      <DependentUpon>frmNewPayroll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOfficialBusiness.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOfficialBusiness.Designer.cs">
+      <DependentUpon>frmOfficialBusiness.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPayrollBreakdown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPayrollBreakdown.Designer.cs">
+      <DependentUpon>frmPayrollBreakdown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPayrollLoader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPayrollLoader.Designer.cs">
+      <DependentUpon>frmPayrollLoader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrintPayroll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintPayroll.Designer.cs">
+      <DependentUpon>frmPrintPayroll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportPayroll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportPayroll.Designer.cs">
+      <DependentUpon>frmReportPayroll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRequestPasswordReset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRequestPasswordReset.Designer.cs">
+      <DependentUpon>frmRequestPasswordReset.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRequests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRequests.Designer.cs">
+      <DependentUpon>frmRequests.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmResignation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmResignation.Designer.cs">
+      <DependentUpon>frmResignation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmResignedList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmResignedList.Designer.cs">
+      <DependentUpon>frmResignedList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReviewRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReviewRequest.Designer.cs">
+      <DependentUpon>frmReviewRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectPayroll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectPayroll.Designer.cs">
+      <DependentUpon>frmSelectPayroll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash.Designer.cs">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThirteenMonthPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThirteenMonthPrint.Designer.cs">
+      <DependentUpon>frmThirteenMonthPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThirteenthMonth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThirteenthMonth.Designer.cs">
+      <DependentUpon>frmThirteenthMonth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTimeSheetReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTimeSheetReport.Designer.cs">
+      <DependentUpon>frmTimeSheetReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdateBio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdateBio.designer.cs">
+      <DependentUpon>frmUpdateBio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserAccounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserAccounts.Designer.cs">
+      <DependentUpon>frmUserAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserLogHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserLogHistory.Designer.cs">
+      <DependentUpon>frmUserLogHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserProfile.Designer.cs">
+      <DependentUpon>frmUserProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewBiometric.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewBiometric.Designer.cs">
+      <DependentUpon>frmViewBiometric.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN.Designer.cs">
+      <DependentUpon>MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="payrollclass.cs" />
+    <Compile Include="payrolldataset.cs">
+      <DependentUpon>payrolldataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="payrolldataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>payrolldataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="queryClass.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="StoreData.cs" />
+    <Compile Include="StringFormula.cs" />
+    <EmbeddedResource Include="frmAddBiometric.resx">
+      <DependentUpon>frmAddBiometric.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEdBio.resx">
+      <DependentUpon>frmAddEdBio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEdHoliday.resx">
+      <DependentUpon>frmAddEdHoliday.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminSettings.resx">
+      <DependentUpon>frmAdminSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAttendance.resx">
+      <DependentUpon>frmAttendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBiometric.resx">
+      <DependentUpon>frmBiometric.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBookOB.resx">
+      <DependentUpon>frmBookOB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChangeUserDetails.resx">
+      <DependentUpon>frmChangeUserDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckAttendance.resx">
+      <DependentUpon>frmCheckAttendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfirmPasswordReset.resx">
+      <DependentUpon>frmConfirmPasswordReset.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCreateUser.resx">
+      <DependentUpon>frmCreateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeDetails.resx">
+      <DependentUpon>frmEmployeeDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeLog.resx">
+      <DependentUpon>frmEmployeeLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeManagement.resx">
+      <DependentUpon>frmEmployeeManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeePositions.resx">
+      <DependentUpon>frmEmployeePositions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEnterYourPassword.resx">
+      <DependentUpon>frmEnterYourPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFirstTimeLog.resx">
+      <DependentUpon>frmFirstTimeLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFormula.resx">
+      <DependentUpon>frmFormula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHolidaySettings.resx">
+      <DependentUpon>frmHolidaySettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLeaveDaysSettings.resx">
+      <DependentUpon>frmLeaveDaysSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLeaveRequest.resx">
+      <DependentUpon>frmLeaveRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoading.resx">
+      <DependentUpon>frmLoading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManualInput.resx">
+      <DependentUpon>frmManualInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewEditPosition.resx">
+      <DependentUpon>frmNewEditPosition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewEmployee.resx">
+      <DependentUpon>frmNewEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewLeaveRequest.resx">
+      <DependentUpon>frmNewLeaveRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewPayroll.resx">
+      <DependentUpon>frmNewPayroll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOfficialBusiness.resx">
+      <DependentUpon>frmOfficialBusiness.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPayrollBreakdown.resx">
+      <DependentUpon>frmPayrollBreakdown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPayrollLoader.resx">
+      <DependentUpon>frmPayrollLoader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintPayroll.resx">
+      <DependentUpon>frmPrintPayroll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportPayroll.resx">
+      <DependentUpon>frmReportPayroll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRequestPasswordReset.resx">
+      <DependentUpon>frmRequestPasswordReset.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRequests.resx">
+      <DependentUpon>frmRequests.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResignation.resx">
+      <DependentUpon>frmResignation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResignedList.resx">
+      <DependentUpon>frmResignedList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReviewRequest.resx">
+      <DependentUpon>frmReviewRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectPayroll.resx">
+      <DependentUpon>frmSelectPayroll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash.resx">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThirteenMonthPrint.resx">
+      <DependentUpon>frmThirteenMonthPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThirteenthMonth.resx">
+      <DependentUpon>frmThirteenthMonth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTimeSheetReport.resx">
+      <DependentUpon>frmTimeSheetReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdateBio.resx">
+      <DependentUpon>frmUpdateBio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserAccounts.resx">
+      <DependentUpon>frmUserAccounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserLogHistory.resx">
+      <DependentUpon>frmUserLogHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserProfile.resx">
+      <DependentUpon>frmUserProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewBiometric.resx">
+      <DependentUpon>frmViewBiometric.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAIN.resx">
+      <DependentUpon>MAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptPayroll.rdlc" />
+    <EmbeddedResource Include="rptThirteenthMonth.rdlc" />
+    <None Include="dset.xsc">
+      <DependentUpon>dset.xsd</DependentUpon>
+    </None>
+    <None Include="dset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dset.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dset.xss">
+      <DependentUpon>dset.xsd</DependentUpon>
+    </None>
+    <None Include="ECO_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="payrolldataset.xsc">
+      <DependentUpon>payrolldataset.xsd</DependentUpon>
+    </None>
+    <None Include="payrolldataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>payrolldataset.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="payrolldataset.xss">
+      <DependentUpon>payrolldataset.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Database1.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Database1_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Database1.mdf</DependentUpon>
+    </Content>
+    <Content Include="ecologo_IOw_icon.ico" />
+    <Content Include="MetroFramework.txt" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\leaveicon32.png" />
+    <None Include="Resources\BiometricsUnavailable.png" />
+    <None Include="Resources\BiometricsAvailable.png" />
+    <None Include="Resources\user-image-with-black-background_318-34564.jpg" />
+    <None Include="Resources\manageaccounticon1.png" />
+    <None Include="Resources\img_3780681.png" />
+    <None Include="Resources\img_2815852.png" />
+    <None Include="Resources\useraccounts %281%291.png" />
+    <None Include="Resources\useraccounts.png" />
+    <None Include="Resources\valid_fingerprint-5122.png" />
+    <None Include="Resources\useraccounts %281%29.png" />
+    <None Include="Resources\rsz_kisspng-computer-icons-download-dates-5ac56c0a8e3cb166328060152288769058261.png" />
+    <None Include="Resources\img_2815851.png" />
+    <None Include="Resources\manageaccounticon.png" />
+    <None Include="Resources\valid_fingerprint-5121.png" />
+    <None Include="Resources\attandance check.png" />
+    <None Include="Resources\rsz_kisspng-computer-icons-download-dates-5ac56c0a8e3cb16632806015228876905826.png" />
+    <None Include="Resources\LogIn.png" />
+    <None Include="Resources\fingerprint.png" />
+    <None Include="Resources\valid_fingerprint-512.png" />
+    <None Include="Resources\security-icon-BIO1.png" />
+    <None Include="Resources\img_378068.png" />
+    <None Include="Resources\img_281585.png" />
+    <None Include="Resources\Files-Add-File-icon.png" />
+    <None Include="Resources\xManager_Icon.png.pagespeed.ic.p93WiflsDG.png" />
+    <None Include="Resources\back-icon.png" />
+    <None Include="Resources\Organic-Search-icon.png" />
+    <None Include="Resources\EcoLogo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

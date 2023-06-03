@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="payrolldataset" targetNamespace="http://tempuri.org/payrolldataset.xsd" xmlns:mstns="http://tempuri.org/payrolldataset.xsd" xmlns="http://tempuri.org/payrolldataset.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ecosoldbConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ecosoldbConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.ECO.Properties.Settings.GlobalReference.Default.ecosoldbConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="payrolldataset" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="payrolldataset" msprop:Generator_UserDSName="payrolldataset">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tmonth" msprop:Generator_TableClassName="tmonthDataTable" msprop:Generator_TableVarName="tabletmonth" msprop:Generator_TablePropName="tmonth" msprop:Generator_RowDeletingName="tmonthRowDeleting" msprop:Generator_RowChangingName="tmonthRowChanging" msprop:Generator_RowEvHandlerName="tmonthRowChangeEventHandler" msprop:Generator_RowDeletedName="tmonthRowDeleted" msprop:Generator_UserTableName="tmonth" msprop:Generator_RowChangedName="tmonthRowChanged" msprop:Generator_RowEvArgName="tmonthRowChangeEvent" msprop:Generator_RowClassName="tmonthRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="tmID" msprop:Generator_ColumnVarNameInTable="columntmID" msprop:Generator_ColumnPropNameInRow="tmID" msprop:Generator_ColumnPropNameInTable="tmIDColumn" msprop:Generator_UserColumnName="tmID" type="xs:int" />
+              <xs:element name="empID" msprop:Generator_ColumnVarNameInTable="columnempID" msprop:Generator_ColumnPropNameInRow="empID" msprop:Generator_ColumnPropNameInTable="empIDColumn" msprop:Generator_UserColumnName="empID" type="xs:string" minOccurs="0" />
+              <xs:element name="year" msprop:Generator_ColumnVarNameInTable="columnyear" msprop:Generator_ColumnPropNameInRow="year" msprop:Generator_ColumnPropNameInTable="yearColumn" msprop:Generator_UserColumnName="year" type="xs:int" minOccurs="0" />
+              <xs:element name="SAmount" msprop:Generator_ColumnVarNameInTable="columnSAmount" msprop:Generator_ColumnPropNameInRow="SAmount" msprop:Generator_ColumnPropNameInTable="SAmountColumn" msprop:Generator_UserColumnName="SAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="monthsworked" msprop:Generator_ColumnVarNameInTable="columnmonthsworked" msprop:Generator_ColumnPropNameInRow="monthsworked" msprop:Generator_ColumnPropNameInTable="monthsworkedColumn" msprop:Generator_UserColumnName="monthsworked" type="xs:int" minOccurs="0" />
+              <xs:element name="basicsalary" msprop:Generator_ColumnVarNameInTable="columnbasicsalary" msprop:Generator_ColumnPropNameInRow="basicsalary" msprop:Generator_ColumnPropNameInTable="basicsalaryColumn" msprop:Generator_UserColumnName="basicsalary" type="xs:double" minOccurs="0" />
+              <xs:element name="uID" msprop:Generator_ColumnVarNameInTable="columnuID" msprop:Generator_ColumnPropNameInRow="uID" msprop:Generator_ColumnPropNameInTable="uIDColumn" msprop:Generator_UserColumnName="uID" type="xs:int" minOccurs="0" />
+              <xs:element name="DateCreated" msprop:Generator_ColumnVarNameInTable="columnDateCreated" msprop:Generator_ColumnPropNameInRow="DateCreated" msprop:Generator_ColumnPropNameInTable="DateCreatedColumn" msprop:Generator_UserColumnName="DateCreated" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="LastName" msprop:Generator_ColumnVarNameInTable="columnLastName" msprop:Generator_ColumnPropNameInRow="LastName" msprop:Generator_ColumnPropNameInTable="LastNameColumn" msprop:Generator_UserColumnName="LastName" type="xs:string" minOccurs="0" />
+              <xs:element name="FirstName" msprop:Generator_ColumnVarNameInTable="columnFirstName" msprop:Generator_ColumnPropNameInRow="FirstName" msprop:Generator_ColumnPropNameInTable="FirstNameColumn" msprop:Generator_UserColumnName="FirstName" type="xs:string" minOccurs="0" />
+              <xs:element name="MIddleInitial" msprop:Generator_ColumnVarNameInTable="columnMIddleInitial" msprop:Generator_ColumnPropNameInRow="MIddleInitial" msprop:Generator_ColumnPropNameInTable="MIddleInitialColumn" msprop:Generator_UserColumnName="MIddleInitial" type="xs:string" minOccurs="0" />
+              <xs:element name="DateHired" msprop:Generator_ColumnVarNameInTable="columnDateHired" msprop:Generator_ColumnPropNameInRow="DateHired" msprop:Generator_ColumnPropNameInTable="DateHiredColumn" msprop:Generator_UserColumnName="DateHired" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="FullName" msprop:Generator_ColumnVarNameInTable="columnFullName" msprop:Generator_ColumnPropNameInRow="FullName" msprop:Generator_ColumnPropNameInTable="FullNameColumn" msprop:Generator_UserColumnName="FullName" type="xs:string" minOccurs="0" />
+              <xs:element name="PositionName" msprop:Generator_ColumnVarNameInTable="columnPositionName" msprop:Generator_ColumnPropNameInRow="PositionName" msprop:Generator_ColumnPropNameInTable="PositionNameColumn" msprop:Generator_UserColumnName="PositionName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="thirteenmonthKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:tmonth" />
+      <xs:field xpath="mstns:tmID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
